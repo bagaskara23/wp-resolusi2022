@@ -1,3 +1,7 @@
 1. Belajar Android Development
 2. Cari Info Magang
+  - PLN
+  - PEGADAIAN
 3. Pikirkan Ide untuk Skripsi
+  - Data Science
+  - IoT
